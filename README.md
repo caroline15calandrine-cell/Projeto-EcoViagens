@@ -32,3 +32,4 @@ O modelo foi construído considerando as principais entidades do negócio, como:
 - Avaliação
 
 Essa estrutura facilita a análise no SQL e a construção de dashboards no Power BI.
+![Diagrama](1. Modelagem-dados/Diagrama.png)
