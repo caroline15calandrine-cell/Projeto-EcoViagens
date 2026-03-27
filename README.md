@@ -15,7 +15,7 @@ A Ecoviagens é uma plataforma de turismo sustentável voltada para a oferta de 
 Neste cenário, a análise dos dados da plataforma tem como objetivo compreender o comportamento das reservas, a popularidade das ofertas e a adesão às práticas sustentáveis.
 A partir disso, busca-se identificar padrões de consumo, preferências dos clientes e oportunidades de melhoria na plataforma. A partir fisso
 
-### Principais Indicadores Chave de Desempenho:
+### Principais Indicadores Chave de Desempenho (KPI):
 - Receita Bruta por Mês: medir o volume de vendas e a adesão dos clientes à plataforma;
 - Taxa de Cancelamento: identificar problemas operacionais e insatisfação dos clientes;
 - Avaliação média: medir a satisfação e qualidade percebida pelos clientes;
@@ -24,3 +24,10 @@ A partir disso, busca-se identificar padrões de consumo, preferências dos clie
 
 ## 🧩 Modelagem dos Dados
 
+A modelagem dos dados foi desenvolvida com o objetivo de organizar as informações de forma estruturada, permitindo análises eficientes.
+O modelo segue o formato estrela, sendo composto por:
+
+- Tabela fato: responsável por armazenar os dados de vendas  
+- Tabelas dimensão: responsáveis por descrever os dados (clientes, produtos, tempo)
+
+Essa estrutura facilita a análise no SQL e a construção de dashboards no Power BI.
