@@ -1,6 +1,9 @@
 # Projeto-EcoViagens
 
 ## Índice
+1.
+2.
+3.
 
 ## 📌 Visão Geral
 Esse projeto visa analisar os dados de uma empresa de Ecoturismo sustentável para identificar os pontos de sustentabilidade do mercado. Nesse contexto, essse projeto será conduzido com Modelagem de dados, Anaálise em SQL e Dashboad com Power BI para desenvolver estratégias eficazes de informações sobre os operadores, reservas, clientes e otimizar o desempenho relacionado a sustentabilidade.
