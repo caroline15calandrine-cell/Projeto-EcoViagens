@@ -13,7 +13,7 @@ Esse projeto visa analisar os dados de uma empresa de Ecoturismo sustentável pa
 ## 💼 Entendimento do Negócio
 A Ecoviagens é uma plataforma de turismo sustentável voltada para a oferta de experiências ecológicas em parceria com operadores locais, promovendo práticas que geram impacto positivo ao meio ambiente e às comunidades.
 Neste cenário, a análise dos dados da plataforma tem como objetivo compreender o comportamento das reservas, a popularidade das ofertas e a adesão às práticas sustentáveis.
-A partir disso, busca-se identificar padrões de consumo, preferências dos clientes e oportunidades de melhoria na plataforma. A partir fisso
+A partir disso, busca-se identificar padrões de consumo, preferências dos clientes e oportunidades de melhoria na plataforma. A partir disso, as análises 
 
 ### Principais Indicadores Chave de Desempenho (KPI):
 - Receita Bruta por Mês: medir o volume de vendas e a adesão dos clientes à plataforma;
@@ -34,5 +34,15 @@ O modelo foi construído considerando as principais entidades do negócio, como:
 Essa estrutura facilita a análise no SQL e a construção de dashboards no Power BI.
 ![Diagrama](1.%20Modelagem-dados/Diagrama.png)
 
-## 🖥️ Análise de Dados via SQL
-Neste projeto, os dados foram analisados através do Google Bigquery, pela sua alta escalabilidade e velocidade de consulta em grandes volumes de dados. 
+## 🗄️ Análise em SQL
+
+Neste projeto, a análise em SQL foi realizada com o objetivo de extrair informações relevantes linguagem foi usada para explorar e analisar os dados, responder as perguntas de negócios a partir dos dados.
+As análises foram realizadas utilizando o Google BigQuery, por meio de consultas SQL para extração e análise dos dados.
+
+### Exemplo de análise: Receita por período
+A consulta abaixo foi utilizada para calcular a receita total ao longo do tempo:
+
+
+
+
+
