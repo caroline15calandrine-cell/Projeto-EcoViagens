@@ -28,11 +28,17 @@ Essa estrutura facilita a análise no SQL e a construção de dashboards no Powe
 
 <h2 align="center"> Análise dos Dados via SQL</h2><p align="center">
 
-Neste projeto, a análise em SQL foi realizada com o objetivo de extrair informações relevantes linguagem foi usada para explorar e analisar os dados, responder as perguntas de negócios a partir dos dados.
+Com os dados estruturados no ambiente relacional, foram desenvolvidas consultas SQL analíticas com o objetivo de responder às principais questões de negócio da plataforma EcoViagens.
+Entre as análises realizadas, destacam-se:
+
+- Como evolui o volume de reservas ao longo do tempo?  
+- Quais períodos apresentam maior concentração de demanda?  
+- Como se comporta o desempenho das ofertas e experiências?  
+- Existem padrões relevantes no comportamento dos usuários?
+
 As análises foram realizadas utilizando o Google BigQuery por ter alta escalabilidade, e pela velocidade da consulta com grande quantidade de dados.
 
-**Exemplo de análise: Receita por período**
-
+**Exemplo de análise: Receita por período**<br>
 A consulta abaixo foi utilizada para calcular a receita total ao longo do tempo:
 ```sql
 SELECT
