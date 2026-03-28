@@ -33,3 +33,6 @@ O modelo foi construído considerando as principais entidades do negócio, como:
 
 Essa estrutura facilita a análise no SQL e a construção de dashboards no Power BI.
 ![Diagrama](1.%20Modelagem-dados/Diagrama.png)
+
+## Análise de Dados via SQL
+Neste projeto, os dados foram analisados através do Google Bigquery, pela sua alta escalabilidade e velocidade de consulta em grandes volumes de dados. 
