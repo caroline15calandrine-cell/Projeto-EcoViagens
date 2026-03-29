@@ -78,3 +78,7 @@ Monitoramento:
 ![Relatório](3.%20Relatório/dashboard%20DS.png)
 
 ![Relatório](3.%20Relatório/dashboard%20DQ.png)
+
+<h2 align="center"> Conclusão & Recomendações</h2><p align="center">
+Essa análise dos dados da plataforma Ecoviagens revelou alguns insights sobre fatores que influenciam... Nesse sentido, serão destacados os principais achados nesse estudo.
+- 
