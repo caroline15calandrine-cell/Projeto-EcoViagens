@@ -75,3 +75,4 @@ Monitoramento:
   - Ticket médio
   - Avaliação média
 
+![Diagrama](1.%20Relatório/diagrama.png)
