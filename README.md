@@ -55,7 +55,23 @@ GROUP BY
   ano, mes, mes_abrev
 ORDER BY 
   ano ASC, mes ASC;
+```
 
+<h2 align="center"> Dashboard de Desempenho da Plataforma</h2><p align="center">
 
+Este projeto conta com um dashboard interativo desenvolvido no Power BI que permite analisar e monitorar o desempenho 
 
+Gráficos:
+- Visualização das Receitas e Reservas ao longo tempo
+- DIstribuição de Reservas e Tickets Médios por tipo de oferta
+- Avaliação do Cliente ao longo do tempo e por tipo de oferta
+- Comparação das receitas das Práticas Sustentáveis e a popularidade
+
+Monitoramento:
+- Acompanhamento das métricas de desempenho: taxa de fidelização e cancelamento
+- Monitoramento das:
+  - Reservas concluídas
+  - Receita total
+  - Ticket médio
+  - Avaliação média
 
