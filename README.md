@@ -107,6 +107,14 @@ Essa análise dos dados da plataforma Ecoviagens revelou alguns insights sobre f
 
 - A avaliação média de **2,99** indica um nível de satisfação **abaixo do ideal**, sugerindo a necessidade de melhorias na experiência do cliente
 
-Nesse sentido, é importante ressaltar que, para melhorar o ambiente organizacional, existem algumas recomendações adicionais:
+Nesse sentido, é importante ressaltar que, para melhorar o desempenho da plataforma EcoViagens e potencializar seus resultados, diversas estratégias podem ser implementadas:
 
-1. 
+  1. **Otimização da Demanda ao Longo do Tempo**:Implementar campanhas promocionais em períodos de baixa demanda, visando equilibrar o volume de reservas ao longo do tempo e aumentar a receita
+  
+  2. **Redução da Taxa de Cancelamento**: Revisar políticas de cancelamento e melhorar a comunicação com os clientes no pré-serviço, reduzindo incertezas e aumentando a retenção de reservas
+  
+  3. **Melhoria da Experiência do Cliente**: Monitorar continuamente o desempenho dos operadores com base nas avaliações e implementar programas de melhoria para aqueles com desempenho abaixo da média
+  
+  4. **Incentivo às Práticas Sustentáveis:** Criar mecanismos de incentivo, como maior visibilidade na plataforma ou benefícios para operadores que adotam práticas sustentáveis, pode aumentar o engajamento com a proposta ecológica da EcoViagens
+
+Além das recomendações apresentadas, é fundamental que a plataforma esteja atenta às mudanças no comportamento dos consumidores e às tendências do mercado de turismo sustentável.
