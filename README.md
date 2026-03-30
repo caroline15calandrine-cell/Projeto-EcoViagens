@@ -46,18 +46,16 @@ O modelo foi organizado a partir dos seguintes grupos de informações:
 
 ## Análise dos Dados via SQL
 
-Com os dados estruturados no ambiente relacional, foram desenvolvidas consultas SQL analíticas com o objetivo de responder às principais questões de negócio da plataforma EcoViagens.
-Entre as análises realizadas, destacam-se:
+Com os dados estruturados em um ambiente relacional, foram desenvolvidas consultas SQL analíticas com o objetivo de responder às principais questões de negócio da plataforma EcoViagens. Entre as análises realizadas, destacam-se:
 
-- Como evolui o volume de reservas ao longo do tempo?  
-- Quais períodos apresentam maior concentração de demanda?  
-- Como se comporta o desempenho das ofertas e experiências?  
+- Como evolui o volume de reservas ao longo do tempo?
+- Quais períodos apresentam maior concentração de demanda?
+- Como se comporta o desempenho das ofertas e experiências?
 - Existem padrões relevantes no comportamento dos usuários?
 
-As análises foram realizadas utilizando o Google BigQuery por ter alta escalabilidade, e pela velocidade da consulta com grande quantidade de dados.
+As análises foram realizadas utilizando o Google BigQuery, devido à sua alta escalabilidade e desempenho no processamento de grandes volumes de dados.
 
 **Exemplo de análise: Receita por período**<br>
-A consulta abaixo foi utilizada para calcular a receita total ao longo do tempo:
 ```sql
 SELECT
   EXTRACT(YEAR FROM data_reserva) AS ano,
@@ -71,6 +69,7 @@ GROUP BY
 ORDER BY 
   ano ASC, mes ASC;
 ```
+As consultas SQL utilizadas neste projeto estão disponíveis [aqui](https://github.com/seu-usuario/seu-repositorio/tree/main/sql).
 
 ## Dashboard de Desempenho da Plataforma
 
