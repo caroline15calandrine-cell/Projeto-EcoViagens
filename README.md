@@ -73,21 +73,25 @@ As consultas SQL utilizadas neste projeto estão disponíveis [aqui](https://git
 
 ## Dashboard de Desempenho da Plataforma
 
-Este projeto conta com um dashboard interativo desenvolvido no Power BI que permite analisar e monitorar o desempenho 
+Este projeto conta com um dashboard interativo desenvolvido no Power BI, com o objetivo de analisar e monitorar o desempenho da plataforma de turismo sustentável EcoViagens.
 
-Gráficos:
-- Visualização das Receitas e Reservas ao longo tempo
-- DIstribuição de Reservas e Tickets Médios por tipo de oferta
-- Avaliação do Cliente ao longo do tempo e por tipo de oferta
-- Comparação das receitas das Práticas Sustentáveis e a popularidade
+Visualizações:
 
-Monitoramento:
-- Acompanhamento das métricas de desempenho: taxa de fidelização e cancelamento
-- Monitoramento das:
-  - Reservas concluídas
-  - Receita total
-  - Ticket médio
-  - Avaliação média
+- Evolução das receitas e do volume de reservas ao longo do tempo  
+- Distribuição das reservas e ticket médio por tipo de oferta  
+- Análise da avaliação dos clientes ao longo do tempo e por tipo de oferta  
+- Comparação entre a receita gerada e a popularidade das práticas sustentáveis
+
+Monitoramento de Indicadores:
+
+- Taxa de fidelização  
+- Taxa de cancelamento  
+- Total de reservas concluídas  
+- Receita total  
+- Ticket médio  
+- Avaliação média dos clientes
+
+O painel foi estruturado para apoiar a tomada de decisão, permitindo identificar padrões de comportamento, oportunidades de melhoria e o impacto das práticas sustentáveis no desempenho da plataforma. A visualização do relatório pode ser visualizado abaixo:
 
 ![Relatório](3.%20Relatório/dashboard%20DS.png)
 
