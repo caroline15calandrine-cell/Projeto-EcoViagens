@@ -10,4 +10,26 @@ A partir disso foi analisada a quanridade de reservas que a plataforma realizou 
 
 * imagem
 
-Os resultados da análise por reserva ao longo dos meses mostrama que o mês de outubro de 2024 obteve a maior quantidade de reservas com 82 reservas, seguido por janeiro de 2025 com 72 reservas. Isso mostra,...
+Os resultados da análise por reserva ao longo dos meses mostram que o mês de outubro de 2024 obteve a maior quantidade de reservas com 82 reservas, seguido por janeiro de 2025 com 72 reservas. Isso mostra,...
+
+# Análise por Práticas Sustentáveis
+A questão das práticas sustentaáveis pode desempenhar um papel importante na decisão dos clientes de reservarem....
+Na análise de volume de reservas por práticas sustentáveis as práticas sustentáveis mais relevantes demonstraram que o Plantio de árvores nativas com 47 reservas, seguindo por Compostagens de resíduos orgânicos e Economia circular com 43 reservas.
+
+*imagem
+
+Abaixo foi realizada a quantidade de reservas com Prática sutentável ou sem Prática sustentável, sendo o impacto das práticas nas reservas.
+* imagem
+Pode-se averiguar que as reservas com práticas sustentáveis e maior do que as sem prática sustentável
+Dessa forma, essa diferença sugere que os clientes podem optar por buscar reservas que tenham práticas sustentáveis pelo impacto no meio ambiente. Isso ressalta a importânica de adotar estratégias de inclusão e melhoria...
+
+
+# Análise por Receita 
+Abaixo foi realizada o total de receita bruta dos clientes SUM(qtd_pessoas * preco) para as reservas que estão com o status concluída.
+* imagem
+
+Ademais, o mês de março de 2025 obteve a maior receita com R$ 62.195,6. Desse modo, esse resultado sugere que ....
+
+* imagem
+
+  
