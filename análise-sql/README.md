@@ -44,7 +44,7 @@ Sendo assim, a análise foi direcionada para verificar a média de satisfação 
 - Hospedagem (acomodaçoes com práticas sustentáveis)
 - Atividade (experiências e passeios sustentáveis)
 
-* imagem
+<img src="imagens/Imagem8.png" width="400">
 
 Nota-se que parece haver uma distribuição maior de reservas para hospedagens, mesmo assim nota-se um equilíbrio entre os dois segmentos. Dessa forma, é necessário que haja uma promoção....
 
