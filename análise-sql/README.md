@@ -28,8 +28,30 @@ Dessa forma, essa diferença sugere que os clientes podem optar por buscar reser
 Abaixo foi realizada o total de receita bruta dos clientes SUM(qtd_pessoas * preco) para as reservas que estão com o status concluída.
 * imagem
 
-Ademais, o mês de março de 2025 obteve a maior receita com R$ 62.195,6. Desse modo, esse resultado sugere que ....
+Ademais, o mês de março de 2025 obteve a maior receita com R$ 62.195,6. No entenato, no mês de junho de 2025 apresentou uma queda acentuada na receita, o que pode ser devido ao mês ainda estar em andamento, ou seja, um dado parcial. Desse modo, esse resultado sugere que ....
 
 * imagem
 
-  
+## Análise por Avaliação
+### Media Avaliação
+Abaixo foi realizada a avaliação geral dos clientes da plataforma:
+
+*imagem
+
+As notas para essa variável é de 1 a 5.
+Sendo assim, a análise foi direcionada para verificar a média de satisfação por tipo de oferta:
+- Hospedagem (acomodaçoes com práticas sustentáveis)
+- Atividade (experiências e passeios sustentáveis)
+
+* imagem
+
+Nota-se que parece haver uma distribuição maior de reservas para hospedagens, mesmo assim nota-se um equilíbrio entre os dois segmentos. Dessa forma, é necessário que haja uma promoção....
+
+
+
+
+
+
+
+
+
