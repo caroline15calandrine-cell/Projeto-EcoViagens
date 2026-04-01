@@ -19,7 +19,8 @@ Na análise de volume de reservas por práticas sustentáveis as práticas suste
 <img src="imagens/Imagem3.png" width="400">
 
 Abaixo foi realizada a quantidade de reservas com Prática sutentável ou sem Prática sustentável, sendo o impacto das práticas nas reservas.
-* imagem
+<img src="imagens/Imagem4.png" width="400">
+
 Pode-se averiguar que as reservas com práticas sustentáveis e maior do que as sem prática sustentável
 Dessa forma, essa diferença sugere que os clientes podem optar por buscar reservas que tenham práticas sustentáveis pelo impacto no meio ambiente. Isso ressalta a importânica de adotar estratégias de inclusão e melhoria...
 
