@@ -1,52 +1,53 @@
 ## Análise os dados da plataforma EcoViagens
+Foram realizadas análises em SQL com o objetivo de explorar os dados da plataforma EcoViagens e compreender seu desempenho sob diferentes perspectivas.
 
 ### Análise por Reservas
-Primeiramentee foram identificados a quantidade de reservas concluídas na plataforma:
-- Total reservas (cncluídas) 
+Inicialmente, foi identificada a quantidade total de reservas concluídas na plataforma.
 
 * imagem
 
-A partir disso foi analisada a quanridade de reservas que a plataforma realizou nos meses ao longo do tempo, a qual foi utilizada somente as reservas como concluídas.
+Em seguida, foi analisada a evolução do volume de reservas ao longo dos meses, considerando apenas reservas com status "concluída".
 
 <img src="imagens/Imagem2.png" width="400">
 
-Os resultados da análise por reserva ao longo dos meses mostram que o mês de outubro de 2024 obteve a maior quantidade de reservas com 82 reservas, seguido por janeiro de 2025 com 72 reservas. Isso mostra,...
+Os resultados mostram que o mês de outubro de 2024 apresentou o maior volume, com 82 reservas, seguido por janeiro de 2025, com 72 reservas. Esse comportamento pode indicar a presença de sazonalidade na demanda, possivelmente relacionada a períodos de maior procura por viagens.
 
 # Análise por Práticas Sustentáveis
-A questão das práticas sustentaáveis pode desempenhar um papel importante na decisão dos clientes de reservarem....
-Na análise de volume de reservas por práticas sustentáveis as práticas sustentáveis mais relevantes demonstraram que o Plantio de árvores nativas com 47 reservas, seguindo por Compostagens de resíduos orgânicos e Economia circular com 43 reservas.
+As práticas sustentáveis podem desempenhar um papel relevante na decisão dos clientes. Nesse contexto, foi analisado o volume de reservas associado a cada prática.
+Os resultados indicam que o "Plantio de árvores nativas" foi a prática mais presente, com 47 reservas, seguido por "Compostagem de resíduos orgânicos" e "Economia circular", ambas com 43 reservas.
 
 <img src="imagens/Imagem3.png" width="400">
 
-Abaixo foi realizada a quantidade de reservas com Prática sutentável ou sem Prática sustentável, sendo o impacto das práticas nas reservas.
+Também foi realizada uma análise comparando reservas com e sem práticas sustentáveis. Observou-se que as reservas com práticas sustentáveis são superiores às sem essas práticas, sugerindo uma possível preferência dos clientes por opções com menor impacto ambiental.
 <img src="imagens/Imagem4.png" width="400">
 
-Pode-se averiguar que as reservas com práticas sustentáveis e maior do que as sem prática sustentável
-Dessa forma, essa diferença sugere que os clientes podem optar por buscar reservas que tenham práticas sustentáveis pelo impacto no meio ambiente. Isso ressalta a importânica de adotar estratégias de inclusão e melhoria...
+Esse resultado reforça a importância de estratégias voltadas à sustentabilidade como diferencial competitivo.
 
 
 # Análise por Receita 
-Abaixo foi realizada o total de receita bruta dos clientes SUM(qtd_pessoas * preco) para as reservas que estão com o status concluída.
+Foi calculada a receita bruta da plataforma a partir da multiplicação do número de pessoas por reserva pelo preço da oferta (SUM(qtd_pessoas * preco)), considerando apenas reservas concluídas.
 <img src="imagens/Imagem5.png" width="400">
 
-Ademais, o mês de março de 2025 obteve a maior receita com R$ 62.195,6. No entenato, no mês de junho de 2025 apresentou uma queda acentuada na receita, o que pode ser devido ao mês ainda estar em andamento, ou seja, um dado parcial. Desse modo, esse resultado sugere que ....
+A análise ao longo do tempo mostra que março de 2025 apresentou a maior receita, com R$ 62.195,60. Em contrapartida, junho de 2025 apresentou uma queda acentuada, possivelmente por se tratar de um período ainda em andamento, caracterizando dados parciais.
 
 <img src="imagens/Imagem6.png" width="400">
 
+Esse comportamento indica variações importantes na receita, que podem estar associadas ao volume de reservas ou a fatores sazonais.
+
 ## Análise por Avaliação
 ### Media Avaliação
-Abaixo foi realizada a avaliação geral dos clientes da plataforma:
+A avaliação média dos clientes foi analisada com base em notas de 1 a 5.
 
 <img src="imagens/Imagem7.png" width="400">
 
-As notas para essa variável é de 1 a 5.
-Sendo assim, a análise foi direcionada para verificar a média de satisfação por tipo de oferta:
+Além da média geral, foi realizada uma segmentação por tipo de oferta:
 - Hospedagem (acomodaçoes com práticas sustentáveis)
 - Atividade (experiências e passeios sustentáveis)
 
 <img src="imagens/Imagem8.png" width="400">
 
-Nota-se que parece haver uma distribuição maior de reservas para hospedagens, mesmo assim nota-se um equilíbrio entre os dois segmentos. Dessa forma, é necessário que haja uma promoção....
+Os resultados indicam um equilíbrio entre os dois tipos de oferta, embora haja uma leve predominância de reservas relacionadas à hospedagem.
+A análise sugere a necessidade de aprofundamento na experiência do cliente, especialmente considerando oportunidades de melhoria na qualidade percebida dos serviços.
 
 
 
