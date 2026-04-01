@@ -27,7 +27,7 @@ Dessa forma, essa diferença sugere que os clientes podem optar por buscar reser
 
 # Análise por Receita 
 Abaixo foi realizada o total de receita bruta dos clientes SUM(qtd_pessoas * preco) para as reservas que estão com o status concluída.
-<img src="imagens/Imagem5.png" width="400">
+
 
 Ademais, o mês de março de 2025 obteve a maior receita com R$ 62.195,6. No entenato, no mês de junho de 2025 apresentou uma queda acentuada na receita, o que pode ser devido ao mês ainda estar em andamento, ou seja, um dado parcial. Desse modo, esse resultado sugere que ....
 
