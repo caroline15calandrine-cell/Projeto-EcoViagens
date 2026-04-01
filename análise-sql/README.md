@@ -26,6 +26,7 @@ Esse resultado reforça a importância de estratégias voltadas à sustentabilid
 
 # Análise por Receita 
 Foi calculada a receita bruta da plataforma a partir da multiplicação do número de pessoas por reserva pelo preço da oferta (SUM(qtd_pessoas * preco)), considerando apenas reservas concluídas.
+
 <img src="imagens/Imagem5.png" width="400">
 
 A análise ao longo do tempo mostra que março de 2025 apresentou a maior receita, com R$ 62.195,60. Em contrapartida, junho de 2025 apresentou uma queda acentuada, possivelmente por se tratar de um período ainda em andamento, caracterizando dados parciais.
