@@ -37,7 +37,7 @@ Ademais, o mês de março de 2025 obteve a maior receita com R$ 62.195,6. No ent
 ### Media Avaliação
 Abaixo foi realizada a avaliação geral dos clientes da plataforma:
 
-*imagem
+<img src="imagens/Imagem7.png" width="400">
 
 As notas para essa variável é de 1 a 5.
 Sendo assim, a análise foi direcionada para verificar a média de satisfação por tipo de oferta:
