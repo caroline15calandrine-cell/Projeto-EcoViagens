@@ -8,7 +8,7 @@ Primeiramentee foram identificados a quantidade de reservas concluídas na plata
 
 A partir disso foi analisada a quanridade de reservas que a plataforma realizou nos meses ao longo do tempo, a qual foi utilizada somente as reservas como concluídas.
 
-* imagem
+<img src="./Imagem2.png" width="400">
 
 Os resultados da análise por reserva ao longo dos meses mostram que o mês de outubro de 2024 obteve a maior quantidade de reservas com 82 reservas, seguido por janeiro de 2025 com 72 reservas. Isso mostra,...
 
