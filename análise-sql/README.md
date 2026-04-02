@@ -5,7 +5,9 @@ Foram realizadas análises em SQL com o objetivo de explorar os dados da platafo
 Inicialmente, foi identificada a quantidade total de reservas concluídas na plataforma, e considerando apenas as reservas com status "concluída".
 E mais, na variável **status** utilizamos UPPER para padronizar os dados.
 
-* imagem
+<p align="center">
+  <img src="./imagens/Imagem9.png" width="400">
+</p>
 
 Em seguida, analisou-se a evolução do volume de reservas ao longo dos meses. Nesta análise, utilizou-se a função EXTRACT para extrair o mês e ano da variável **data_reserva**:
 
