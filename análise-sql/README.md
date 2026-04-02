@@ -14,7 +14,7 @@ Em seguida, foi analisada a evolução do volume de reservas ao longo dos meses,
 
 Os resultados mostram que o mês de outubro de 2024 apresentou o maior volume, com 82 reservas, seguido por janeiro de 2025, com 72 reservas. Esse comportamento pode indicar a presença de sazonalidade na demanda, possivelmente relacionada a períodos de maior procura por viagens.
 
-# Análise por Práticas Sustentáveis
+### Análise por Práticas Sustentáveis
 As práticas sustentáveis podem desempenhar um papel relevante na decisão dos clientes. Nesse contexto, foi analisado o volume de reservas associado a cada prática.
 Os resultados indicam que o "Plantio de árvores nativas" foi a prática mais presente, com 47 reservas, seguido por "Compostagem de resíduos orgânicos" e "Economia circular", ambas com 43 reservas.
 
@@ -30,7 +30,7 @@ Também foi realizada uma análise comparando reservas com e sem práticas suste
 Esse resultado reforça a importância de estratégias voltadas à sustentabilidade como diferencial competitivo.
 
 
-# Análise por Receita 
+### Análise por Receita 
 Foi calculada a receita bruta da plataforma a partir da multiplicação do número de pessoas por reserva pelo preço da oferta (SUM(qtd_pessoas * preco)), considerando apenas reservas concluídas.
 
 <p align="center">
@@ -44,8 +44,8 @@ A análise ao longo do tempo mostra que março de 2025 apresentou a maior receit
 </p>
 Esse comportamento indica variações importantes na receita, que podem estar associadas ao volume de reservas ou a fatores sazonais.
 
-## Análise por Avaliação
-### Media Avaliação
+### Análise por Avaliação
+#### Media Avaliação
 A avaliação média dos clientes foi analisada com base em notas de 1 a 5.
 
 <p align="center">
