@@ -23,17 +23,17 @@ práticas.
 Os resultados indicam que o "Plantio de árvores nativas" foi a prática mais presente, com 47 reservas, seguido por "Compostagem de resíduos orgânicos" e "Economia circular", ambas com 43 reservas.
 
 <p align="center">
-  <img src="./imagens/Imagem3.png" width="400">
+  <img src="./imagens/Imagem10.png" width="400">
 </p>
 
-Também foi realizada uma análise comparando reservas com e sem práticas sustentáveis. Observou-se que as reservas com práticas sustentáveis são superiores às sem essas práticas, sugerindo uma possível preferência dos clientes por opções com menor impacto ambiental.
+Também foi realizada uma análise comparando reservas com e sem práticas sustentáveis. Pra esta análise foi utilizado a função CASE para avaliar as duas condições **"Com prática sustentável e Sem prática sustentável"**. 
 
 <p align="center">
   <img src="./imagens/Imagem4.png" width="400">
 </p>
 
+Desse modo, observou-se que as reservas com práticas sustentáveis são superiores às sem essas práticas, sugerindo uma possível preferência dos clientes por opções com menor impacto ambiental.
 Esse resultado reforça a importância de estratégias voltadas à sustentabilidade como diferencial competitivo.
-
 
 ### Análise por Receita 
 Foi calculada a receita bruta da plataforma a partir da multiplicação do número de pessoas por reserva pelo preço da oferta (SUM(qtd_pessoas * preco)), considerando apenas reservas concluídas.
@@ -47,7 +47,7 @@ A análise ao longo do tempo mostra que março de 2025 apresentou a maior receit
 <p align="center">
   <img src="./imagens/Imagem6.png" width="400">
 </p>
-Esse comportamento indica variações importantes na receita, que podem estar associadas ao volume de reservas ou a fatores sazonais.
+Esse comportamento indica variações importantes na receita que podem estar associadas ao volume de reservas ou a fatores sazonais.
 
 ### Análise por Avaliação
 #### Media Avaliação
