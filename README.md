@@ -10,10 +10,12 @@ Neste contexto, o presente projeto utiliza um conjunto de dados com o objetivo d
 
 A seguir, são apresentados alguns dos Indicadores Chaves de Performance (KPIs) utilizados na análise:
 
-- **Receita Bruta por Mês:** mensurar o volume de vendas e o nível de adesão dos clientes à plataforma;<br>
+- **Receita Bruta**: mensurar o volume financeiro e o nível de adesão dos clientes à plataforma
+- **Ticket médio**: identificar o valor médio gasto por reserva para análise de rentabilidade;
 - **Taxa de Cancelamento**: identificar possíveis falhas operacionais e níveis de insatisfação dos clientes;
+- **Taxa de Fidelização**: avaliar o percentual de clientes recorrentes e a lealdade à marca;
 - **Avaliação Média**: avaliar a satisfação dos usuários e a qualidade percebida dos serviços;
-- **Média de Práticas Sustentáveis:** mensurar o nível de adesão às práticas sustentáveis por parte dos operadores e experiências oferecidas.
+- **Desempenho de Práticas Sustentáveis:** analisar o engajamento e a aceitação das iniciativas de impacto ambiental.
 
 
 ## Modelagem dos Dados
