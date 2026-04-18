@@ -10,7 +10,7 @@ Neste contexto, o presente projeto utiliza um conjunto de dados com o objetivo d
 
 A seguir, são apresentados alguns dos Indicadores Chaves de Performance (KPIs) utilizados na análise:
 
-- **Receita Bruta**: mensurar o volume financeiro e o nível de adesão dos clientes à plataforma
+- **Receita Bruta**: mensurar o volume financeiro e o nível de adesão dos clientes à plataforma;
 - **Ticket médio**: identificar o valor médio gasto por reserva para análise de rentabilidade;
 - **Taxa de Cancelamento**: identificar possíveis falhas operacionais e níveis de insatisfação dos clientes;
 - **Taxa de Fidelização**: avaliar o percentual de clientes recorrentes e a lealdade à marca;
