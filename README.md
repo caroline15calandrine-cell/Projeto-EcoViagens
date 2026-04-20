@@ -6,7 +6,7 @@
 
 A EcoViagens é uma plataforma brasileira de turismo sustentável, dedicada à oferta de experiências ecológicas em parceria com operadores locais. Seu objetivo é promover práticas que gerem impacto positivo tanto para o meio ambiente quanto para as comunidades envolvidas. A base de dados disponível contempla diferentes dimensões e métricas, incluindo informações sobre reservas, operadores, atividades e indicadores relacionados à sustentabilidade.
 
-Neste contexto, o presente projeto utiliza um conjunto de dados com o objetivo de analisar e avaliar o desempenho da EcoViagens no período de junho de 2024 a junho de 2025. A análise busca gerar insights relevantes para o monitoramento da performance da plataforma, apoiando a tomada de decisões estratégicas.
+Neste contexto, o presente projeto utiliza um conjunto de dados com o objetivo de analisar e avaliar o desempenho da EcoViagens no período de junho de 2024 a junho de 2025 (mês parcial). A análise busca gerar insights relevantes para o monitoramento da performance da plataforma, apoiando a tomada de decisões estratégicas.
 
 A seguir, são apresentados alguns dos Indicadores Chaves de Performance (KPIs) utilizados na análise:
 
