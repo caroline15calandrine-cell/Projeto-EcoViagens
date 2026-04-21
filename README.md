@@ -33,7 +33,7 @@ As principais entidades contempladas no modelo incluem:
 
 Essa estrutura permite consultas eficientes em SQL e oferece suporte à construção de dashboards analíticos no Power BI.
 
-![Diagrama](análise-sql/diagrama.png)
+![Diagrama](análise-sql/diagrama.jpg)
 
 **Componentes Principais dos Dados**
 
