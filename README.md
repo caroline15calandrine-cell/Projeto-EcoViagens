@@ -8,15 +8,15 @@ A EcoViagens é uma plataforma brasileira de turismo sustentável, dedicada à o
 
 Neste contexto, o presente projeto utiliza um conjunto de dados com o objetivo de analisar e avaliar o desempenho da EcoViagens no período de junho de 2024 a junho de 2025 (mês parcial). A análise busca gerar insights relevantes para o monitoramento da performance da plataforma, apoiando a tomada de decisões estratégicas.
 
-A seguir, são apresentados alguns dos Indicadores Chaves de Performance (KPIs) utilizados na análise:
-
-- **Receita Bruta**: mensurar o volume financeiro e o nível de adesão dos clientes à plataforma;
-- **Ticket médio**: identificar o valor médio gasto por reserva para análise de rentabilidade;
-- **Taxa de Cancelamento**: identificar possíveis falhas operacionais e níveis de insatisfação dos clientes;
-- **Taxa de Fidelização**: avaliar o percentual de clientes recorrentes e a lealdade à marca;
-- **Avaliação Média**: avaliar a satisfação dos usuários e a qualidade percebida dos serviços;
-- **Desempenho de Práticas Sustentáveis:** analisar o engajamento e a aceitação das iniciativas de impacto ambiental.
-
+A seguir, são apresentadas as seguintes perguntas de negócio:
+1. Análise de desempenho da receita: Como a receita está evoluindo ao longo do tempo?
+2. Análise por tipo de oferta: Qual tipo de oferta gera melhor desempenho, atividades ou hospedagens?
+3. Análise das práticas sustentáveis: As práticas sustentáveis impactam na receita?
+4. Análise de operadores: Quais operadores geram maior receita?
+5. Análise das práticas sustentáveis e desempenho: Quais práticas sustentáveis estão associadas ao maior número de reservas e melhores avaliações?
+6. Análise da satisfação dos clientes: Como está a satisfação média dos clientes e por tipo de oferta?
+7. Análise de fidelização: Como está o comportamento de retorno dos clientes?
+8. Análise dos fatores que impactam a receita: Quais fatores estão associados à variação da receita ao longo do tempo?
 
 ## Modelagem dos Dados
 
